@@ -5,8 +5,7 @@ L = instaloader.Instaloader()
 
 loader = instaloader.Instaloader()
 
-# Login (optional)
-# loader.interactive_login("your_username")
+
 
 # Target username
 target_username = ['iceskycoldly']
