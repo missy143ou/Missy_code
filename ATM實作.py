@@ -18,7 +18,7 @@ class ATM:
 test=ATM() 
 
 while True:
-    answer=input("歡迎來到阿許銀行, 請問是要登入還是註冊新帳號? 登入請輸入1, 註冊請輸入2:")
+    answer=input("歡迎來到Missy銀行, 請問是要登入還是註冊新帳號? 登入請輸入1, 註冊請輸入2:")
     if answer=="2":
     
         while True:
